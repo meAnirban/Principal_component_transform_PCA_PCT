@@ -1,0 +1,2 @@
+# Principal_component_transform_PCA_PCT
+Dimensionality reduction of images
